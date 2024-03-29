@@ -1,6 +1,6 @@
 # NLP_to_rank_artistic_Metaverses
 
-This is the source code of the paper "A Language-based solution to enable Metaverse Retrieval". The full paper can be found at [link](https://arxiv.org/abs/2312.14630)
+This is the source code of the paper [A Language-based solution to enable Metaverse Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-53311-2_35). The full paper can be found at [link](https://arxiv.org/abs/2312.14630)
 
 
 ![1703771761471](https://github.com/aliabdari/NLP_to_rank_artistic_Metaverses/assets/24971267/e182a369-9d17-40c0-962b-15b4a95634b4)
